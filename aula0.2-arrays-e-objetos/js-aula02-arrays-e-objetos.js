@@ -156,3 +156,4 @@ listaProdutos.forEach(produto => {
 
 //EXIBIR O ARRAY OBJETOS EM FORMA DE TABELA
 console.table(listaProdutos);
+
