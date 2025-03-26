@@ -107,7 +107,7 @@ console.log(
 
 //Formatação de string
 
-const nome = "Bruno Eduardo";
+const nome = "Mauricio Rafael";
 
 //Letras maiusculas
 console.log(nome.toUpperCase());
